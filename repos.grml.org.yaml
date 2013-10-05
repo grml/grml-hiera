@@ -1,0 +1,5 @@
+---
+classes:
+    - r10k::mcollective::application
+
+mcollective::client: true

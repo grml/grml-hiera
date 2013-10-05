@@ -3,3 +3,8 @@ classes:
     - apt-keys
     - sudo
     - grml
+    - backup
+    - mcollective
+
+mcollective::middleware_hosts: 
+    - father.grml.org
