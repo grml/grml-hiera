@@ -1,3 +1,8 @@
 ---
+classes: 
+    - r10k::mcollective
+    - r10k
+
+r10k::remote: 'git://git.grml.org/gsa-puppet.git'
 mcollective::middleware: true
 mcollective::client: true
