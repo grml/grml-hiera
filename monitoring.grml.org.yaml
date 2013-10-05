@@ -1,4 +1,4 @@
 ---
 classes:
     - ferm
-    - ferm:www
+    - ferm::www
