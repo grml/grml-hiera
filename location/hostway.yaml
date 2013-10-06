@@ -1,0 +1,12 @@
+---
+classes:
+    - serial
+    - collectd::client
+    - resolver
+    - ldap
+    - ssh
+
+nameservers:
+    - 10.0.3.1
+    - 81.3.3.81
+    - 81.3.2.130
