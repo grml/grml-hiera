@@ -6,7 +6,12 @@ classes:
     - ldap
     - ssh
 
-nameservers:
+resolver::dns_servers:
     - 10.0.3.1
     - 81.3.3.81
     - 81.3.2.130
+
+resolver::search:
+    - grml.org
+
+resolver::dns_domain: grml.org
