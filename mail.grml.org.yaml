@@ -1,0 +1,6 @@
+---
+classes:
+    - ferm
+    - ferm::smtp
+    - ferm::imaps
+    - ferm::www

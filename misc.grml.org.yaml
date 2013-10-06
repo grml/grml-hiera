@@ -1,0 +1,5 @@
+---
+classes:
+    - ferm
+    - ferm::git
+    - ferm::www

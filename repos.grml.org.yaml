@@ -1,5 +1,8 @@
 ---
 classes:
     - r10k::mcollective::application
+    - ferm
+    - ferm::git
+    - ferm::www
 
 mcollective::client: true

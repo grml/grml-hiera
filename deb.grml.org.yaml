@@ -1,0 +1,6 @@
+---
+classes:
+    - ferm
+    - ferm::rsync
+    - ferm::smtp
+    - ferm::www
