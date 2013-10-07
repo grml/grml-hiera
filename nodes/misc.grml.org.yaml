@@ -3,3 +3,6 @@ classes:
     - ferm
     - ferm::git
     - ferm::www
+    - ferm::jabber
+    - ferm::smtp
+    - ferm::dns
