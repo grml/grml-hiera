@@ -12,4 +12,3 @@ mcollective::middleware_hosts:
 
 grml::packages::packagelist:
     - psmisc 
-    - hello
