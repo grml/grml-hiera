@@ -12,3 +12,18 @@ mcollective::middleware_hosts:
 
 grml::packages::packagelist:
     - psmisc 
+    - vim
+    - zsh
+    - bzip2
+    - lsb-release
+    - less
+    - apt-dater-host
+    - imvirt
+    - ncurses-term
+    - grml-etc-core
+    - etckeeper
+    - check-mk-agent
+    - xinetd
+    - rsync
+    - locales
+    - libnagios-plugin-perl
