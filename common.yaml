@@ -4,11 +4,7 @@ classes:
     - sudo
     - grml
     - backup
-    - mcollective
     - grml::packages
-
-mcollective::middleware_hosts: 
-    - father.grml.org
 
 grml::packages::packagelist:
     - psmisc 
